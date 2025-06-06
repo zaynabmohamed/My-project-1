@@ -8,6 +8,7 @@ function getText(){
            "It's not what happens to you, but how you react to it that matters.",
            "You miss 100% of the shots you don't take.",
     ];
+
         let random = Math.floor(Math.random() * paragraphs.length);
         /*
           math.floor ====>  يتولد عدد صحيح 
